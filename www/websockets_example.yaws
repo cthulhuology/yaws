@@ -62,7 +62,7 @@ html_body(WebSocketLocation) ->
           this._ws=null;
           $('connect').className='';
           $('connected').className='hidden';
-          $('msg').innerHTML='';
+          $('msgs').innerHTML='';
         }
     };
   </script> 
